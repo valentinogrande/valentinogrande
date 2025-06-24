@@ -1,4 +1,3 @@
-<!-- Portada o imagen estilo banner (opcional) -->
 <p align="center">
   <img src="https://github.com/valentinogrande/valentinogrande/blob/main/banner.png" alt="Banner" />
 </p>
