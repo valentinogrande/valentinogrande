@@ -5,7 +5,7 @@
 <h1 align="center">Valentino Grande</h1>
 
 <p align="center">
-  🧑‍💻 I'm 17 years old, and I'm developing since I'm 13<br/>
+  🧑‍💻 I'm 18 years old, and I'm developing since I'm 13<br/>
   passionate about the computing, rust, python, cybersecurity and more.
 </p>
 
